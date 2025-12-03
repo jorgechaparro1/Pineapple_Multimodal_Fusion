@@ -1,4 +1,4 @@
-# articulo-cientifico-datos
+# Pineapple_Multimodal_Fusion
 # Multimodal Data Fusion for Pineapple Water Status Monitoring
 
 This repository contains the datasets, source code, and supplementary materials for the research article:
